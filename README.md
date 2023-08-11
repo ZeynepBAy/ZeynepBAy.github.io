@@ -1,4 +1,4 @@
-# Data Scientist
+# Chemical Engineering Student
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
