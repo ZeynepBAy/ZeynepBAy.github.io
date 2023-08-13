@@ -10,16 +10,16 @@ B.S., Chemical Engineering Minor in Sustainable Energy Systems | Northeastern Un
 ## Projects
 ### Museum of Science, Boston Sustainability Museum Exhibit - Zero Emission Energy
 
-![Picture of Museum Exhibit](/assets/img/Photo_MU.jpeg)
-
 We developed a mobile museum exhibit aimed at educating high school and middle school students about sustainability in engineering. The exhibit was interactive, cost-effective (under $100), and designed to fit on a tabletop. Through engaging games, we highlighted the efficiency of nuclear energy while destigmatizing it and compared it with wind and solar power. User feedback confirmed the success of our approach, with visitors rating their experience 9.125 out of 10 and 87.5% correctly identifying nuclear energy as the most efficient. These results validated our goals of interactivity and education, effectively addressing the client's requirements and providing students with an engaging platform to understand sustainability concepts.
+
+![Picture of Museum Exhibit](/assets/img/Photo_MU.jpeg)
 
 [Museum Exhibit Final Report, Individual](/assets/pdf/Final Report - Sustainability Museum Exhibit, Museum of Science, Boston - Partial, Zeynep.docx-compressed.pdf)
 
 [Museum Exhibit Final Report - Full](/assets/pdf/Final Report - Sustainability Museum Exhibit, Museum of Science, Boston - Full.docx - Google Docs-compressed_1.pdf)
 
+This project was instituted and associated with Professor Kathryn Schulte Grahame at Northeastern University.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
