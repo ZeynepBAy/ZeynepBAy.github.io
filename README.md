@@ -1,15 +1,11 @@
 # Chemical Engineering Student
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+[My Resume!](/assets/pdf/Resume_ZA_SEI.pdf)
+
+#### Technical Skills: Autocad, MATLAB, C#, C/C++, SolidWorks, Microsoft Suite
 
 ## Education
 B.S., Chemical Engineering Minor in Sustainable Energy Systems | Northeastern University (_May 2024_)
-
-[My Resume!](/assets/pdf/Resume_ZA_SEI.pdf)
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
