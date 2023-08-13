@@ -5,7 +5,7 @@
 ## Education
 B.S., Chemical Engineering Minor in Sustainable Energy Systems | Northeastern University (_May 2024_)
 
-## ![My Resume!](/assets/pdf/Resume_ZA_SEI.pdf)
+## [My Resume!](/assets/pdf/Resume_ZA_SEI.pdf)
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
