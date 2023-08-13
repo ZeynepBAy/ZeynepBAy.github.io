@@ -8,10 +8,15 @@
 B.S., Chemical Engineering Minor in Sustainable Energy Systems | Northeastern University (_May 2024_)
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Museum of Science, Boston Sustainability Museum Exhibit - Zero Emission Energy
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+![Picture of Museum Exhibit](/assets/img/Photo_MU.jpeg)
+
+We developed a mobile museum exhibit aimed at educating high school and middle school students about sustainability in engineering. The exhibit was interactive, cost-effective (under $100), and designed to fit on a tabletop. Through engaging games, we highlighted the efficiency of nuclear energy while destigmatizing it and compared it with wind and solar power. User feedback confirmed the success of our approach, with visitors rating their experience 9.125 out of 10 and 87.5% correctly identifying nuclear energy as the most efficient. These results validated our goals of interactivity and education, effectively addressing the client's requirements and providing students with an engaging platform to understand sustainability concepts.
+
+[Museum Exhibit Final Report - Individual](/assets/pdf/Final Report - Sustainability Museum Exhibit, Museum of Science, Boston - Partial, Zeynep.docx-compressed.pdf)
+[Museum Exhibit Final Report - Full](/assets/pdf/Final Report - Sustainability Museum Exhibit, Museum of Science, Boston - Full.docx - Google Docs-compressed_1.pdf)
+
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
