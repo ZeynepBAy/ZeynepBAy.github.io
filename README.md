@@ -7,6 +7,9 @@
 ## Education
 B.S., Chemical Engineering Minor in Sustainable Energy Systems | Northeastern University (_May 2024_)
 
+## Contact Information
+Email: ay.z@northeastern.edu
+
 ## Projects
 ### Museum of Science, Boston Sustainability Museum Exhibit - Zero Emission Energy
 
