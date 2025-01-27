@@ -5,7 +5,7 @@
 #### Technical Skills: Autocad, MATLAB, C#, C/C++, SolidWorks, Microsoft Suite, AspenPlus.
 
 ## Education
-B.S., Chemical Engineering Minor in Sustainable Energy Systems | Northeastern University (_May 2024_)
+B.S., Chemical Engineering Minor in Sustainable Energy Systems | Northeastern University (_May 2025_)
 
 ## Contact Information
 Email: ay.z@northeastern.edu
