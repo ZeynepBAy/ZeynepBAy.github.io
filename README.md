@@ -1,6 +1,6 @@
 # Chemical Engineering Student
 
-[My Resume!](/assets/pdf/RESUME_ZA_BGJ_1.docx)
+[My Resume!](/assets/pdf/RESUME_ZA_BGJ_3.pdf)
 
 #### Technical Skills: Autocad, MATLAB, C#, C/C++, SolidWorks, Microsoft Suite, AspenPlus.
 
